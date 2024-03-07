@@ -1,1 +1,2 @@
-s is the first line of MAster branch
+s is the first line of MAster branc
+This is the line from User1 branchh
